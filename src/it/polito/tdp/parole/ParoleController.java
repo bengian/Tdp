@@ -19,7 +19,7 @@ import javafx.scene.control.TextField;
 
 public class ParoleController {
 	WordSet ws=new WordSet();
-	
+	int lol=0;
 	Parole elenco ;
 
     @FXML // ResourceBundle that was given to the FXMLLoader
